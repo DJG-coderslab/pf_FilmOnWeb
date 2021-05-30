@@ -1,0 +1,54 @@
+{% extends 'FilmOnWeb/base.html' %}
+{% block pagecontent %}
+<style>
+    .persons {display: flex; justify-content: space-around}
+</style>
+
+<div class="container my-3 fs-5">
+    <div class="row title display-4">
+        <span class="text-center">{{movie.title}}</span>
+    </div>
+    <div class="hmmm row m-row my-3">
+        <div class="year col col-3">
+            Rok produkcji: {{movie.year}}
+        </div>
+        <div class="rating col">
+            Ocena: {{movie.rating}}
+        </div>
+    </div>
+    <div class="genre row m-row my-3">
+        <div class="col">
+        Kategoria:
+        {% for genre in genres %}
+        {{genre.name}}
+        {% endfor %}
+        </div>
+    </div>
+    <div class="persons row my-3">
+        <div class="managment col">
+            <div class="director">
+                Reżyseria: {{movie.director.first_name}} {{movie.director.last_name}}
+            </div>
+            <div class="screenplay">
+                Scenariusz: {{movie.screenplay.first_name}} {{movie.screenplay.last_name}}
+            </div>
+        </div>
+        <div class="actors col">
+            Występują:
+            <ul class="list-unstyled">
+            {% for actor in actors %}
+            <li>{{actor.person.first_name}} {{actor.person.last_name}} jako {{actor.role}}</li>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="btn-new_person">
+        {% with link="filmonweb-movie-edit" %}
+        <input type="submmit" value="Edytuj film" class="btn btn-outline-dark btn-lg"
+               onclick="document.location='{% url link movie.id %}'">
+        {% endwith %}
+    </div>
+</div>
+
+
+{% endblock %}

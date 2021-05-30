@@ -1,0 +1,10 @@
+{% extends 'FilmOnWeb/base.html' %}
+{% block pagecontent %}
+
+
+<form action="" method="post" class="form-inline">{% csrf_token %}
+    {{ form.as_p }}
+    <button class="btn btn-outline-dark btn-lg" type="submit" value="Wyślij to">Wyślij</button>
+</form>
+
+    {% endblock %}

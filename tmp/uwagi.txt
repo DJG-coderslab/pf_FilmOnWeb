@@ -1,0 +1,38 @@
+Dodawanie danych do relacji ManyToMany
+
+
+    p1 -> Pasikowski
+    p2 -> Pazura
+    p3 -> Linda
+
+    g -> kryminał
+
+    m -> ...create(title=" ", year=1999, director=p1, screenplay=p1
+
+1. bez jawnie określonej tabeli through, genre
+
+    m.genre.add(g)
+
+z dodatkowym polem:
+
+    pm = PersonMovie.objects.create(role="Franciszek Mauer", person=p2, movie=m)
+
+
+przy zmianie danych np.
+
+    pm.person = p3
+
+trzeba zrobić
+
+    pm.save()
+
+Dostęp do danych dodatkowych: wszystkie role w filmie
+    for role in PersonMovie.objects.filter(movie=m):
+        print(role.role)
+        print(role.person.last_name, role.role)   # nazwisko, rola
+
+
+-----------------------------------------------------------------------
+
+psql -U postgres  -W -h localhost  film_tmp < /tmp/film.dump
+

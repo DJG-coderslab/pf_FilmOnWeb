@@ -1,0 +1,16 @@
+{% extends 'FilmOnWeb/base.html' %}
+{% block pagecontent %}
+<h1>TEST</h1>
+
+<div class="cos">
+  <div class="panel-heading">Panel Heading</div>
+  <div class="panel-body">Panel Content</div>
+</div>
+
+{{ cos }}
+<ul class="list-group">
+{% for x in movies %}
+    <li class="">{{ x.title }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}

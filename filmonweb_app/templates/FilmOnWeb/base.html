@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="{% static 'styles/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'styles/table.css' %}">
+    <link rel="stylesheet" href="{% static 'styles/main.css' %}">
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+</head>
+<body>
+<header>
+    <div class="jumbotron jumbotron-fluid bg-light bg-gradient my-3 mx-3" id="banner">
+        <h2 class="display-2">Filmoteka </h2>
+        <h3 class="learn">{{ title }}</h3>
+    </div>
+</header>
+<div class="free_spaces"></div>
+<div class="container" id="main_div">
+    {% block pagecontent %}
+    {% endblock %}
+</div>
+<div class="footer">
+    <p class="small my-4 mx-6">Filonweb 2020-2021</p>
+</div>
+&nbsp;
+</body>
+</html>

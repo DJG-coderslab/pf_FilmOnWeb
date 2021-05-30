@@ -1,0 +1,27 @@
+{% extends 'FilmOnWeb/base.html' %}
+{% block pagecontent %}
+<div class="cotainer">
+    <div class="row">
+        <div class="col">
+            <form action="" method="post">
+                {% csrf_token %}
+                {{form}}
+                <br>
+                <input class="btn btn-outline-dark btn-lg" type="submit" value="Szukaj">
+            </form>
+        </div>
+        <div class="col mx-4">
+            <div class="h4">
+                <p>Lista znalezionych filmów:</p>
+            </div>
+            <ul class="group-list h5">
+                {% for movie in result %}
+                <li class="group-list-item">{{movie.title}}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

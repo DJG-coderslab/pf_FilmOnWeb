@@ -1,0 +1,72 @@
+{% extends 'FilmOnWeb/base.html' %}
+{% block pagecontent %}
+
+
+<div class="container my-3">
+    <form action="" method="post">{% csrf_token %}
+        <div class="row ">
+            <div class="col">
+                <label class="form-label" for="{{form.title.id_for_label}}">Tytuł: </label>
+                {{form.title}}
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <label class="form-label" for="{{form.year.id_for_label}}">Rok: </label>
+                {{form.year}}
+            </div>
+            <div class="col">
+                <label class="form-label" for="{{form.rating.id_for_label}}">Ocena: </label>
+                {{form.rating}}
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <label class="form-label" for="{{form.director.id_for_label}}">Reżyseria: </label>
+                {{form.director}}
+            </div>
+            <div class="col">
+                <label class="form-label" for="{{form.screenplay.id_for_label}}">Scenariusz: </label>
+                {{form.screenplay}}
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <label class="form-label" for="{{form.genre.id_for_label}}">Kategoria: </label>
+                {% for genre in form.genre %}
+                <div class="form-check">
+                    {{genre.tag}}
+                    <label for="{{genre.id_for_label}}" class="form-check-label">
+                        {{genre.choice_label}}
+                    </label>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="col">
+                <div class="row">
+                    <label class="form-label" for="{{form.starring.id_for_label}}">Występują: </label>
+                    {{form.starring}}
+                </div>
+                <div class="row my-3">
+                    <div class="btn-new_person">
+                        {% with link="filmonweb-person-add" %}
+                        <input type="submmit" value="Dodaj nową osobę" class="btn btn-outline-dark btn-lg"
+                               onclick="document.location='{% url link %}?edit={{id}}'">
+                        {% endwith %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <button class="btn btn-outline-dark btn-lg" type="submit" value="Wyślij to">Wyślij</button>
+            </div>
+        </div>
+
+    </form>
+</div>
+{% endblock %}

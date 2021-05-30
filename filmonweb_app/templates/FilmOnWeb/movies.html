@@ -1,0 +1,70 @@
+{% extends 'FilmOnWeb/base.html' %}
+{% block pagecontent %}
+<div class="container">
+    <table class="table table-hover">
+        <caption>Lista filmów</caption>
+        <thead class="thead-light">
+        <tr>
+            <th>Tytuł</th>
+            <th>Rok produkcji</th>
+            <th>Reżyser</th>
+            <th>
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            Ocena
+                        </div>
+                        <div class="col">
+                            <div class="row">
+                                <div class="col">
+                                    <a href="{% url 'filmonweb-movies-list' %}?order_by=rating">
+                                    <img src="/static/images/arrow-up.webp" with="10px" height="10px">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    <a href="{% url 'filmonweb-movies-list' %}">
+                                    <img src="/static/images/minus.webp" with="10px" height="10px">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    <a href="{% url 'filmonweb-movies-list' %}?order_by=-rating">
+                                    <img src="/static/images/arrow-down.webp" with="10px" height="10px">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for movie in movies %}
+        <tr>
+            <td>
+                <a href="{% url 'filmonweb-movie-details' movie.id %}">{{movie.title}}</a>
+            </td>
+            <td>{{movie.year}}</td>
+            <td>{{movie.director.first_name}} {{movie.director.last_name}}</td>
+            <td>{{movie.rating}}</td>
+            <td>
+                <a href="{% url 'filmonweb-movie-edit' movie.id %}"><button class="h6">E</button></a>
+                <a href="{% url 'filmonweb-movie-del' movie.id %}"><button class="h6">D</button></a>
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    <div class="btn-new_person">
+        {% with link="filmonweb-movie-add" %}
+        <input type="submmit" value="Dodaj nowy film" class="btn btn-outline-dark btn-lg"
+               onclick="document.location='{% url link %}'">
+        {% endwith %}
+    </div>
+</div>
+{% endblock %}

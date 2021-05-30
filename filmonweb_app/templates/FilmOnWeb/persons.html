@@ -1,0 +1,28 @@
+{% extends 'FilmOnWeb/base.html' %}
+{% block pagecontent %}
+
+<table class="table-striped table-hover table-borderless table-sm">
+    <tbody>
+{% for person in persons %}
+    <tr>
+        <td>
+            {{person.first_name}} {{person.last_name}}
+        </td>
+        <td>
+            <a href="{% url 'filmonweb-person-edit' person.id %}"><button class="h6">E</button></a>
+        </td>
+        <td>
+            <a href="{% url 'filmonweb-person-del' person.id %}"><button class="h6">D</button></a>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<div class="btn-new_person">
+    {% with link="filmonweb-person-add" %}
+    <input type="submmit" value="Dodaj nową osobę" class="btn btn-outline-dark btn-lg"
+           onclick="document.location='{% url link %}?edit={{id}}'">
+    {% endwith %}
+</div>
+
+{% endblock %}

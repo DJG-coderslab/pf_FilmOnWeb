@@ -1,0 +1,1180 @@
+START
+Name Value
+lastlogoff {0}
+msexcharchivename {Personal Archive - Dudzik, Pawel}
+msexchthrottlingpolicydn {CN=EMEA Throttling Policy for ActiveSync Devices,CN=Global Settings,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-primaryhomeserver {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msexchrecipienttypedetails {1}
+msexchshadowproxyaddresses {smtp:Pawel_Dudzik@ex.acer-euro.com, smtp:Pawel_Dudzik@asplex.eu, SIP:Pawel.Dudzik@asplex.eu, SMTP:Pawel.Dudzik@asplex.eu}
+msexchwhenmailboxcreated {17-Nov-2016 11:37:31}
+primarygroupid {513}
+msexcharchivequota {52428800}
+objectguid {107 120 225 58 38 15 66 70 133 189 182 115 8 2 208 246}
+title {Senior Technician}
+msexchumdtmfmap {emailAddress:72935383945, lastNameFirstName:38394572935, firstNameLastName:72935383945}
+whenchanged {29-Jan-2021 05:09:27}
+distinguishedname {CN=Dudzik\, Pawel,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+extensionattribute2 {EMEA}
+msrtcsip-internetaccessenabled {True}
+msds-externaldirectoryobjectid {User_04807add-f960-4641-a470-235a1aaac59f}
+dscorepropagationdata {01-Jan-1601 00:00:00}
+msrtcsip-userroutinggroupid {199 225 191 205 73 182 215 88 177 170 151 172 19 82 59 36}
+instancetype {4}
+department {KNTXEA Repair Center_Robert}
+msexcharchivewarnquota {47185920}
+memberof {CN=PLWRO-RC_Technician,OU=Repair Center,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO_Internet_Full_Access,OU=IWSVA,OU=Groups,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO Send Mail Prohibited to External Only,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO-Trainings_R,OU=Office,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com...}
+msrtcsip-federationenabled {True}
+usnchanged {23637247}
+usncreated {97438}
+samaccountname {pdudzik}
+logoncount {9276}
+co {POLAND}
+msexchpoliciesexcluded {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+userprincipalname {Pawel.Dudzik@asplex.eu}
+countrycode {0}
+msexchmailboxguid {46 133 72 255 90 77 80 67 169 75 78 0 180 171 171 39}
+manager {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+msrtcsip-primaryuseraddress {sip:Pawel.Dudzik@asplex.eu}
+msexchtextmessagingstate {302120705, 16842751}
+samaccounttype {805306368}
+preferredlanguage {en-US}
+showinaddressbook {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-optionflags {2305}
+badpasswordtime {132564814407383278}
+msrtcsip-deploymentlocator {SRV:}
+proxyaddresses {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=aa51e7bf96fe4b1aa9a4ef86ce377e50-Dudzik, Paw, SIP:Pawel.Dudzik@asplex.eu, SMTP:Pawel.Dudzik@asplex.eu, smtp:Pawel_Dudzik@asplex.eu...}
+objectsid {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 222 122 0 0}
+objectclass {top, person, organizationalPerson, user}
+departmentnumber {KNTXEA}
+objectcategory {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+extensionattribute3 {PLWRO}
+givenname {Pawel}
+protocolsettings {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+homemta {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+pwdlastset {132536054845539389}
+msexchelcmailboxflags {50}
+msexchmailboxsecuritydescri... {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+codepage {0}
+msexchversion {44220983382016}
+whencreated {17-Nov-2016 10:13:35}
+physicaldeliveryofficename {POLAND}
+legacyexchangedn {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Dudzik, Pawelde8}
+msexchomaadminwirelessenable {4}
+msexchuserculture {en-US}
+homemdb {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-userpolicies {13=3, 0=1038402227}
+msexchrbacpolicylink {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+accountexpires {9223372036854775807}
+msexcharchivedatabaselink {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+useraccountcontrol {512}
+msexchuseraccountcontrol {0}
+badpwdcount {0}
+displayname {Dudzik, Pawel}
+msexchrecipientdisplaytype {1073741824}
+sn {Dudzik}
+mail {Pawel.Dudzik@asplex.eu}
+msexcharchiveguid {90 26 209 82 5 93 95 68 165 54 49 146 83 108 102 112}
+lastlogontimestamp {132563704380973153}
+msexchmailboxtemplatelink {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+company {Asplex Sp. z o.o.}
+mdbusedefaults {True}
+adspath {LDAP://CN=Dudzik\, Pawel,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+name {Dudzik, Pawel}
+msexchhomeservername {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+cn {Dudzik, Pawel}
+msexchmobilemailboxpolicylink {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+mailnickname {Pawel.Dudzik}
+employeenumber {1611108}
+msrtcsip-userenabled {True}
+lastlogon {132564844344477891}
+l {Wroclaw}
+Name Value
+lastlogoff {0}
+msexcharchivename {Personal Archive - Korzeniewska, Nikola}
+department {KNTXEA Repair Center_Robert}
+msrtcsip-primaryhomeserver {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msexchrecipienttypedetails {1}
+msexchwhenmailboxcreated {22-Sep-2020 10:55:42}
+primarygroupid {513}
+msexcharchivequota {52428800}
+objectguid {25 34 223 140 250 121 46 68 174 12 249 152 40 85 166 82}
+title {Junior Technician}
+msexchumdtmfmap {emailAddress:645652567936439752, lastNameFirstName:567936439752645652, firstNameLastName:645652567936439752}
+whenchanged {29-Jan-2021 05:05:08}
+distinguishedname {CN=Korzeniewska\, Nikola,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+extensionattribute2 {EMEA}
+msrtcsip-internetaccessenabled {True}
+msds-externaldirectoryobjectid {User_c088f33d-b017-4a40-af10-6c4c55c02d3a}
+dscorepropagationdata {02-Oct-2020 08:28:30, 01-Jan-1601 00:00:00}
+msrtcsip-userroutinggroupid {199 225 191 205 73 182 215 88 177 170 151 172 19 82 59 36}
+instancetype {4}
+msexcharchivewarnquota {47185920}
+msrtcsip-userenabled {True}
+memberof {CN=PLWRO-RC_Technician,OU=Repair Center,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com...}
+msrtcsip-federationenabled {True}
+usnchanged {23636731}
+usncreated {17886279}
+info {\\PLWROVF1\HOME$\nkorzeniewska}
+samaccountname {nkorzeniewska}
+logoncount {1529}
+co {POLAND}
+msexchpoliciesexcluded {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+userprincipalname {Nikola.Korzeniewska@asplex.eu}
+countrycode {0}
+msexchmailboxguid {255 12 182 24 41 115 5 74 139 137 235 77 187 201 213 193}
+manager {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+msrtcsip-primaryuseraddress {sip:nikola.korzeniewska@asplex.eu}
+msexchtextmessagingstate {302120705, 16842751}
+samaccounttype {805306368}
+preferredlanguage {en-US}
+showinaddressbook {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-optionflags {2305}
+badpasswordtime {132566828729433391}
+msrtcsip-deploymentlocator {SRV:}
+proxyaddresses {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=716482eb78cc464c94ed51db91f34fd3-Korzeniewsk, sip:nikola.korzeniewska@asplex.eu, smtp:nikola.korzeniewska@ex.acer-euro.com, SMTP:nikola.korzeniewska@asplex.eu}
+objectsid {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 216 220 0 0}
+objectclass {top, person, organizationalPerson, user}
+departmentnumber {KNTXEA}
+objectcategory {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+extensionattribute3 {PLWRO}
+givenname {Nikola}
+protocolsettings {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+homemta {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+pwdlastset {132523984821699188}
+msexchelcmailboxflags {50}
+msexchmailboxsecuritydescri... {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+codepage {0}
+msexchversion {44220983382016}
+whencreated {22-Sep-2020 10:54:44}
+physicaldeliveryofficename {POLAND}
+legacyexchangedn {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Korzeniewska, Nikola9ae}
+msexchomaadminwirelessenable {4}
+msexchuserculture {en-US}
+homemdb {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-userpolicies {13=3, 0=1038402227}
+msexchrbacpolicylink {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+accountexpires {9223372036854775807}
+msexcharchivedatabaselink {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+useraccountcontrol {512}
+msexchuseraccountcontrol {0}
+badpwdcount {0}
+displayname {Korzeniewska, Nikola}
+msexchrecipientdisplaytype {1073741824}
+sn {Korzeniewska}
+mail {nikola.korzeniewska@asplex.eu}
+msexcharchiveguid {39 14 223 45 194 4 221 64 175 185 77 133 126 2 78 61}
+lastlogontimestamp {132563701424733841}
+msexchmailboxtemplatelink {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+company {Asplex Sp. z o.o.}
+mdbusedefaults {True}
+adspath {LDAP://CN=Korzeniewska\, Nikola,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+name {Korzeniewska, Nikola}
+admindisplayname {fcastagnoli}
+cn {Korzeniewska, Nikola}
+msexchmobilemailboxpolicylink {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+mailnickname {Nikola.Korzeniewska}
+employeenumber {2009194}
+msexchhomeservername {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+lastlogon {132566849599869734}
+l {Wroclaw}
+Name Value
+lastlogoff {0}
+msexcharchivename {Personal Archive - Turnicki, Damian}
+department {KNTXEA Repair Center_Robert}
+msrtcsip-primaryhomeserver {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msexchrecipienttypedetails {1}
+msexchwhenmailboxcreated {09-Dec-2020 14:32:17}
+primarygroupid {513}
+msexcharchivequota {52428800}
+objectguid {138 106 48 117 43 65 18 76 190 113 81 153 135 4 16 129}
+title {Junior Technician}
+msexchumdtmfmap {emailAddress:32642688764254, lastNameFirstName:88764254326426, firstNameLastName:32642688764254}
+whenchanged {25-Jan-2021 06:05:09}
+distinguishedname {CN=Turnicki\, Damian,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+extensionattribute2 {EMEA}
+msrtcsip-internetaccessenabled {True}
+msds-externaldirectoryobjectid {User_e9ec2ba6-d3f2-497e-a2a8-d859c9173ac7}
+dscorepropagationdata {10-Dec-2020 05:27:14, 01-Jan-1601 00:00:00}
+msrtcsip-userroutinggroupid {86 208 60 178 24 64 86 83 142 150 188 217 135 113 23 39}
+instancetype {4}
+msexcharchivewarnquota {47185920}
+msrtcsip-userenabled {True}
+memberof {CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO_Internet_Restricted_Access_Whitelisted,OU=IWSVA,OU=Groups,DC=emea,DC=intra,DC=acer,DC=com...}
+msrtcsip-federationenabled {True}
+usnchanged {23397872}
+usncreated {21468071}
+info {\\PLWROVF1\HOME$\dturnicki}
+samaccountname {dturnicki}
+logoncount {1015}
+co {POLAND}
+msexchpoliciesexcluded {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+userprincipalname {Damian.Turnicki@asplex.eu}
+countrycode {0}
+msexchmailboxguid {10 239 9 205 170 132 200 73 188 248 78 195 246 224 100 54}
+manager {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+msrtcsip-primaryuseraddress {sip:damian.turnicki@asplex.eu}
+msexchtextmessagingstate {302120705, 16842751}
+samaccounttype {805306368}
+preferredlanguage {en-US}
+showinaddressbook {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-optionflags {2305}
+badpasswordtime {132566628273157221}
+msrtcsip-deploymentlocator {SRV:}
+proxyaddresses {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=2fd232a982f3495899a09e32c1281429-Turnicki, D, sip:damian.turnicki@asplex.eu, smtp:damian.turnicki@ex.acer-euro.com, SMTP:damian.turnicki@asplex.eu}
+objectsid {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 44 239 0 0}
+objectclass {top, person, organizationalPerson, user}
+departmentnumber {KNTXEA}
+objectcategory {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+extensionattribute3 {PLWRO}
+givenname {Damian}
+protocolsettings {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+homemta {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+pwdlastset {132524839367879164}
+msexchelcmailboxflags {50}
+msexchmailboxsecuritydescri... {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+codepage {0}
+msexchversion {44220983382016}
+whencreated {09-Dec-2020 14:30:47}
+physicaldeliveryofficename {POLAND}
+legacyexchangedn {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Turnicki, Damian889}
+msexchomaadminwirelessenable {4}
+msexchuserculture {en-US}
+homemdb {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-userpolicies {13=3, 0=1038402227}
+msexchrbacpolicylink {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+accountexpires {9223372036854775807}
+msexcharchivedatabaselink {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+useraccountcontrol {512}
+msexchuseraccountcontrol {0}
+badpwdcount {0}
+displayname {Turnicki, Damian}
+msexchrecipientdisplaytype {1073741824}
+sn {Turnicki}
+mail {damian.turnicki@asplex.eu}
+msexcharchiveguid {211 186 33 237 252 109 240 77 148 229 2 5 130 136 173 71}
+lastlogontimestamp {132560281923227920}
+msexchmailboxtemplatelink {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+company {Asplex Sp. z o.o.}
+mdbusedefaults {True}
+adspath {LDAP://CN=Turnicki\, Damian,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+name {Turnicki, Damian}
+admindisplayname {mscuratti}
+cn {Turnicki, Damian}
+msexchmobilemailboxpolicylink {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+mailnickname {Damian.Turnicki}
+employeenumber {2011207}
+msexchhomeservername {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+lastlogon {132566861503101494}
+l {Wroclaw}
+Name Value
+lastlogoff {0}
+msexcharchivename {Personal Archive - Ceglarz, Jakub}
+department {KNTXEA Repair Center_Robert}
+msrtcsip-primaryhomeserver {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msexchrecipienttypedetails {1}
+msexchwhenmailboxcreated {16-Nov-2020 14:44:17}
+primarygroupid {513}
+msexcharchivequota {52428800}
+objectguid {44 90 133 248 239 126 53 75 156 116 117 138 99 254 253 84}
+title {Junior Technician}
+msexchumdtmfmap {emailAddress:525822345279, lastNameFirstName:234527952582, firstNameLastName:525822345279}
+whenchanged {28-Jan-2021 13:50:09}
+distinguishedname {CN=Ceglarz\, Jakub,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+extensionattribute2 {EMEA}
+msrtcsip-internetaccessenabled {True}
+msds-externaldirectoryobjectid {User_ffa1603f-0c45-43d8-91a2-fd84d6cd8053}
+dscorepropagationdata {18-Nov-2020 10:30:17, 01-Jan-1601 00:00:00}
+msrtcsip-userroutinggroupid {3 27 108 233 166 64 148 86 141 92 163 64 194 214 253 104}
+instancetype {4}
+msexcharchivewarnquota {47185920}
+msrtcsip-userenabled {True}
+memberof {CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO_Internet_Restricted_Access_Whitelisted,OU=IWSVA,OU=Groups,DC=emea,DC=intra,DC=acer,DC=com...}
+msrtcsip-federationenabled {True}
+usnchanged {23615864}
+usncreated {20328571}
+info {\\PLWROVF1\HOME$\jceglarz}
+samaccountname {jceglarz}
+logoncount {343}
+co {POLAND}
+msexchpoliciesexcluded {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+userprincipalname {Jakub.Ceglarz@asplex.eu}
+countrycode {0}
+msexchmailboxguid {121 237 97 69 226 207 21 69 181 41 186 89 192 69 210 155}
+manager {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+msrtcsip-primaryuseraddress {sip:jakub.ceglarz@asplex.eu}
+msexchtextmessagingstate {302120705, 16842751}
+samaccounttype {805306368}
+preferredlanguage {en-US}
+showinaddressbook {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-optionflags {2305}
+badpasswordtime {132566719524116936}
+msrtcsip-deploymentlocator {SRV:}
+proxyaddresses {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=cf3e317d75c74aa79a7d42826f82b062-Ceglarz, Ja, sip:jakub.ceglarz@asplex.eu, smtp:jakub.ceglarz@ex.acer-euro.com, SMTP:jakub.ceglarz@asplex.eu}
+objectsid {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 228 238 0 0}
+objectclass {top, person, organizationalPerson, user}
+departmentnumber {KNTXEA}
+objectcategory {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+extensionattribute3 {PLWRO}
+givenname {Jakub}
+protocolsettings {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+homemta {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+pwdlastset {132524161489765294}
+msexchelcmailboxflags {50}
+msexchmailboxsecuritydescri... {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+codepage {0}
+msexchversion {44220983382016}
+whencreated {16-Nov-2020 14:42:39}
+physicaldeliveryofficename {POLAND}
+legacyexchangedn {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Ceglarz, Jakubdfd}
+msexchomaadminwirelessenable {4}
+msexchuserculture {en-US}
+homemdb {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-userpolicies {13=3, 0=1038402227}
+msexchrbacpolicylink {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+accountexpires {9223372036854775807}
+msexcharchivedatabaselink {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+useraccountcontrol {512}
+msexchuseraccountcontrol {0}
+badpwdcount {0}
+displayname {Ceglarz, Jakub}
+msexchrecipientdisplaytype {1073741824}
+sn {Ceglarz}
+mail {jakub.ceglarz@asplex.eu}
+msexcharchiveguid {146 190 208 251 160 72 163 77 187 238 139 21 9 10 79 51}
+lastlogontimestamp {132563153642810381}
+msexchmailboxtemplatelink {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+company {Asplex Sp. z o.o.}
+mdbusedefaults {True}
+adspath {LDAP://CN=Ceglarz\, Jakub,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+name {Ceglarz, Jakub}
+admindisplayname {mscuratti}
+cn {Ceglarz, Jakub}
+msexchmobilemailboxpolicylink {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+mailnickname {Jakub.Ceglarz}
+employeenumber {2011126}
+msexchhomeservername {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+lastlogon {132566848151658545}
+l {Wroclaw}
+Name Value
+lastlogoff {0}
+msexcharchivename {Personal Archive - Zelazna, Kamila}
+department {KNTXEA Repair Center_Robert}
+msrtcsip-primaryhomeserver {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msexchrecipienttypedetails {1}
+msexchwhenmailboxcreated {18-Dec-2020 17:15:45}
+primarygroupid {513}
+msexcharchivequota {52428800}
+objectguid {231 158 28 158 19 157 185 69 164 104 221 34 114 77 4 164}
+title {Junior Technician}
+msexchumdtmfmap {emailAddress:5264529352962, lastNameFirstName:9352962526452, firstNameLastName:5264529352962}
+whenchanged {29-Jan-2021 05:35:08}
+distinguishedname {CN=Zelazna\, Kamila,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+extensionattribute2 {EMEA}
+msrtcsip-internetaccessenabled {True}
+msds-externaldirectoryobjectid {User_d484830d-499a-459d-9340-80c03ea13b95}
+dscorepropagationdata {21-Dec-2020 06:07:52, 01-Jan-1601 00:00:00}
+msrtcsip-userroutinggroupid {228 60 241 201 78 109 164 87 131 91 63 243 248 30 86 117}
+instancetype {4}
+msexcharchivewarnquota {47185920}
+msrtcsip-userenabled {True}
+memberof {CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO_Internet_Restricted_Access_Whitelisted,OU=IWSVA,OU=Groups,DC=emea,DC=intra,DC=acer,DC=com...}
+msrtcsip-federationenabled {True}
+usnchanged {23638497}
+usncreated {21932284}
+info {\\PLWROVF1\HOME$\kzelazna}
+samaccountname {kzelazna}
+logoncount {499}
+co {POLAND}
+msexchpoliciesexcluded {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+userprincipalname {Kamila.Zelazna@asplex.eu}
+countrycode {0}
+msexchmailboxguid {194 146 85 238 83 237 243 64 129 35 187 182 51 165 156 240}
+manager {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+msrtcsip-primaryuseraddress {sip:Kamila.Zelazna@asplex.eu}
+msexchtextmessagingstate {302120705, 16842751}
+samaccounttype {805306368}
+preferredlanguage {en-US}
+showinaddressbook {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-optionflags {2305}
+badpasswordtime {132566696509459618}
+msrtcsip-deploymentlocator {SRV:}
+proxyaddresses {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=d9543bda40c040baa214792acd7471b4-Zelazna, Ka, sip:Kamila.Zelazna@asplex.eu, smtp:kamila.zelazna@ex.acer-euro.com, SMTP:kamila.zelazna@asplex.eu}
+objectsid {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 88 239 0 0}
+objectclass {top, person, organizationalPerson, user}
+departmentnumber {KNTXEA}
+objectcategory {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+extensionattribute3 {PLWRO}
+givenname {Kamila}
+protocolsettings {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+homemta {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+pwdlastset {132546004722867720}
+msexchelcmailboxflags {50}
+msexchmailboxsecuritydescri... {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+codepage {0}
+msexchversion {44220983382016}
+whencreated {18-Dec-2020 16:56:06}
+physicaldeliveryofficename {POLAND}
+legacyexchangedn {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Zelazna, Kamilae8a}
+msexchomaadminwirelessenable {4}
+msexchuserculture {en-US}
+homemdb {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-userpolicies {13=3, 0=1038402227}
+msexchrbacpolicylink {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+accountexpires {9223372036854775807}
+msexcharchivedatabaselink {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+useraccountcontrol {512}
+msexchuseraccountcontrol {0}
+badpwdcount {0}
+displayname {Zelazna, Kamila}
+msexchrecipientdisplaytype {1073741824}
+sn {Zelazna}
+mail {Kamila.Zelazna@asplex.eu}
+msexcharchiveguid {250 0 127 117 10 145 128 69 159 66 250 97 246 248 116 106}
+lastlogontimestamp {132563720210273740}
+msexchmailboxtemplatelink {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+company {Asplex Sp. z o.o.}
+mdbusedefaults {True}
+adspath {LDAP://CN=Zelazna\, Kamila,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+name {Zelazna, Kamila}
+admindisplayname {fcastagnoli}
+cn {Zelazna, Kamila}
+msexchmobilemailboxpolicylink {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+mailnickname {Kamila.Zelazna}
+employeenumber {2012133}
+msexchhomeservername {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+lastlogon {132566826068624684}
+l {Wroclaw}
+Name Value
+lastlogoff {0}
+msexcharchivename {Personal Archive - Orzechowski, Wojciech}
+department {KNTXEA Repair Center_Robert}
+msrtcsip-primaryhomeserver {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msexchuserculture {en-US}
+msexchwhenmailboxcreated {21-Oct-2020 19:38:51}
+primarygroupid {513}
+msexcharchivequota {52428800}
+objectguid {121 39 239 4 99 64 43 79 154 53 27 58 120 92 43 132}
+title {Junior Technician}
+msexchumdtmfmap {emailAddress:9652432467932469754, lastNameFirstName:6793246975496524324, firstNameLastName:9652432467932469754}
+whenchanged {28-Jan-2021 06:20:09}
+givenname {Wojciech}
+distinguishedname {CN=Orzechowski\, Wojciech,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+extensionattribute2 {EMEA}
+msrtcsip-internetaccessenabled {True}
+msds-externaldirectoryobjectid {User_73f46217-9c05-4653-8e1f-4fb6327135a9}
+dscorepropagationdata {22-Oct-2020 07:14:41, 01-Jan-1601 00:00:00}
+msrtcsip-userroutinggroupid {228 60 241 201 78 109 164 87 131 91 63 243 248 30 86 117}
+instancetype {4}
+msexcharchivewarnquota {47185920}
+msrtcsip-userenabled {True}
+memberof {CN=PLWRO-RC_Technician,OU=Repair Center,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com...}
+msrtcsip-federationenabled {True}
+usnchanged {23595024}
+usncreated {19196816}
+info {\\PLWROVF1\HOME$\worzechowski}
+msexchrecipienttypedetails {1}
+samaccountname {worzechowski}
+logoncount {1243}
+co {POLAND}
+msexchpoliciesexcluded {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+userprincipalname {Wojciech.Orzechowski@asplex.eu}
+countrycode {0}
+msexchmailboxguid {202 66 106 137 234 134 134 67 189 203 227 230 1 4 51 24}
+manager {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+msrtcsip-primaryuseraddress {sip:Wojciech.Orzechowski@asplex.eu}
+msexchtextmessagingstate {302120705, 16842751}
+samaccounttype {805306368}
+preferredlanguage {en-US}
+showinaddressbook {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-optionflags {2305}
+badpasswordtime {132566677170723523}
+msrtcsip-deploymentlocator {SRV:}
+proxyaddresses {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=c76b078c685b416ab43092145723ea9e-Orzechowski, sip:Wojciech.Orzechowski@asplex.eu, smtp:wojciech.orzechowski@ex.acer-euro.com, SMTP:wojciech.orzechowski@asplex.eu}
+objectsid {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 243 242 0 0}
+objectclass {top, person, organizationalPerson, user}
+departmentnumber {KNTXEA}
+objectcategory {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+extensionattribute3 {PLWRO}
+lockouttime {0}
+protocolsettings {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+homemta {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+pwdlastset {132561974092594088}
+msexchelcmailboxflags {50}
+codepage {0}
+msexchversion {44220983382016}
+whencreated {21-Oct-2020 19:17:17}
+physicaldeliveryofficename {POLAND}
+legacyexchangedn {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Orzechowski, Wojciechc11}
+msexchomaadminwirelessenable {4}
+msexchmailboxsecuritydescri... {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+homemdb {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+msrtcsip-userpolicies {13=3, 0=1038402227}
+msexchrbacpolicylink {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+accountexpires {9223372036854775807}
+msexcharchivedatabaselink {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+useraccountcontrol {512}
+msexchuseraccountcontrol {0}
+badpwdcount {0}
+displayname {Orzechowski, Wojciech}
+msexchrecipientdisplaytype {1073741824}
+sn {Orzechowski}
+mail {Wojciech.Orzechowski@asplex.eu}
+msexcharchiveguid {30 242 103 113 117 77 117 73 135 0 231 60 155 33 2 250}
+lastlogontimestamp {132562880261606780}
+msexchmailboxtemplatelink {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+company {Asplex Sp. z o.o.}
+mdbusedefaults {True}
+adspath {LDAP://CN=Orzechowski\, Wojciech,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+name {Orzechowski, Wojciech}
+admindisplayname {dcastillo}
+cn {Orzechowski, Wojciech}
+msexchmobilemailboxpolicylink {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+mailnickname {Wojciech.Orzechowski}
+employeenumber {2010198}
+msexchhomeservername {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+lastlogon {132566833202870554}
+l {Wroclaw}
+           --- msexchomaadminwirelessenable ---       
+Dudzik         {4}
+Korzeniewska   {4}
+Turnicki       {4}
+Ceglarz        {4}
+Zelazna        {4}
+Orzechowski    {4}
+           --- msexchthrottlingpolicydn ---       
+Dudzik         {CN=EMEA Throttling Policy for ActiveSync Devices,CN=Global Settings,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   None
+Turnicki       None
+Ceglarz        None
+Zelazna        None
+Orzechowski    None
+           --- company ---       
+Dudzik         {Asplex Sp. z o.o.}
+Korzeniewska   {Asplex Sp. z o.o.}
+Turnicki       {Asplex Sp. z o.o.}
+Ceglarz        {Asplex Sp. z o.o.}
+Zelazna        {Asplex Sp. z o.o.}
+Orzechowski    {Asplex Sp. z o.o.}
+           --- lockouttime ---       
+Dudzik         None
+Korzeniewska   None
+Turnicki       None
+Ceglarz        None
+Zelazna        None
+Orzechowski    {0}
+           --- physicaldeliveryofficename ---       
+Dudzik         {POLAND}
+Korzeniewska   {POLAND}
+Turnicki       {POLAND}
+Ceglarz        {POLAND}
+Zelazna        {POLAND}
+Orzechowski    {POLAND}
+           --- msexchuseraccountcontrol ---       
+Dudzik         {0}
+Korzeniewska   {0}
+Turnicki       {0}
+Ceglarz        {0}
+Zelazna        {0}
+Orzechowski    {0}
+           --- whencreated ---       
+Dudzik         {17-Nov-2016 10:13:35}
+Korzeniewska   {22-Sep-2020 10:54:44}
+Turnicki       {09-Dec-2020 14:30:47}
+Ceglarz        {16-Nov-2020 14:42:39}
+Zelazna        {18-Dec-2020 16:56:06}
+Orzechowski    {21-Oct-2020 19:17:17}
+           --- msexchhomeservername ---       
+Dudzik         {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+Korzeniewska   {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+Turnicki       {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+Ceglarz        {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+Zelazna        {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+Orzechowski    {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=CHLUGWEXSMA02P}
+           --- homemta ---       
+Dudzik         {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=Microsoft MTA,CN=CHLUGWEXSMA02P,CN=Servers,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- msexchmobilemailboxpolicylink ---       
+Dudzik         {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=EMEA ActiveSync Mailbox Policy,CN=Mobile Mailbox Policies,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- manager ---       
+Dudzik         {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=Smolarczyk\, Robert,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+           --- objectsid ---       
+Dudzik         {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 222 122 0 0}
+Korzeniewska   {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 216 220 0 0}
+Turnicki       {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 44 239 0 0}
+Ceglarz        {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 228 238 0 0}
+Zelazna        {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 88 239 0 0}
+Orzechowski    {1 5 0 0 0 0 0 5 21 0 0 0 133 100 186 182 209 0 27 174 112 227 55 98 243 242 0 0}
+           --- homemdb ---       
+Dudzik         {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=EMEAPLWEXSMADB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- legacyexchangedn ---       
+Dudzik         {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Dudzik, Pawelde8}
+Korzeniewska   {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Korzeniewska, Nikola9ae}
+Turnicki       {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Turnicki, Damian889}
+Ceglarz        {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Ceglarz, Jakubdfd}
+Zelazna        {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Zelazna, Kamilae8a}
+Orzechowski    {/o=ACER/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=Orzechowski, Wojciechc11}
+           --- msrtcsip-userpolicies ---       
+Dudzik         {13=3, 0=1038402227}
+Korzeniewska   {13=3, 0=1038402227}
+Turnicki       {13=3, 0=1038402227}
+Ceglarz        {13=3, 0=1038402227}
+Zelazna        {13=3, 0=1038402227}
+Orzechowski    {13=3, 0=1038402227}
+           --- msexchelcmailboxflags ---       
+Dudzik         {50}
+Korzeniewska   {50}
+Turnicki       {50}
+Ceglarz        {50}
+Zelazna        {50}
+Orzechowski    {50}
+           --- mailnickname ---       
+Dudzik         {Pawel.Dudzik}
+Korzeniewska   {Nikola.Korzeniewska}
+Turnicki       {Damian.Turnicki}
+Ceglarz        {Jakub.Ceglarz}
+Zelazna        {Kamila.Zelazna}
+Orzechowski    {Wojciech.Orzechowski}
+           --- mail ---       
+Dudzik         {Pawel.Dudzik@asplex.eu}
+Korzeniewska   {nikola.korzeniewska@asplex.eu}
+Turnicki       {damian.turnicki@asplex.eu}
+Ceglarz        {jakub.ceglarz@asplex.eu}
+Zelazna        {Kamila.Zelazna@asplex.eu}
+Orzechowski    {Wojciech.Orzechowski@asplex.eu}
+           --- msrtcsip-userenabled ---       
+Dudzik         {True}
+Korzeniewska   {True}
+Turnicki       {True}
+Ceglarz        {True}
+Zelazna        {True}
+Orzechowski    {True}
+           --- preferredlanguage ---       
+Dudzik         {en-US}
+Korzeniewska   {en-US}
+Turnicki       {en-US}
+Ceglarz        {en-US}
+Zelazna        {en-US}
+Orzechowski    {en-US}
+           --- msexchmailboxtemplatelink ---       
+Dudzik         {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=EMEA Standard users Retention Policy,CN=Retention Policies Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- msexcharchivedatabaselink ---       
+Dudzik         {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=EMEAPLWEXSARDB01,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- givenname ---       
+Dudzik         {Pawel}
+Korzeniewska   {Nikola}
+Turnicki       {Damian}
+Ceglarz        {Jakub}
+Zelazna        {Kamila}
+Orzechowski    {Wojciech}
+           --- objectcategory ---       
+Dudzik         {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=Person,CN=Schema,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- msexchtextmessagingstate ---       
+Dudzik         {302120705, 16842751}
+Korzeniewska   {302120705, 16842751}
+Turnicki       {302120705, 16842751}
+Ceglarz        {302120705, 16842751}
+Zelazna        {302120705, 16842751}
+Orzechowski    {302120705, 16842751}
+           --- adspath ---       
+Dudzik         {LDAP://CN=Dudzik\, Pawel,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Korzeniewska   {LDAP://CN=Korzeniewska\, Nikola,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Turnicki       {LDAP://CN=Turnicki\, Damian,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Ceglarz        {LDAP://CN=Ceglarz\, Jakub,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Zelazna        {LDAP://CN=Zelazna\, Kamila,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Orzechowski    {LDAP://CN=Orzechowski\, Wojciech,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+           --- objectguid ---       
+Dudzik         {107 120 225 58 38 15 66 70 133 189 182 115 8 2 208 246}
+Korzeniewska   {25 34 223 140 250 121 46 68 174 12 249 152 40 85 166 82}
+Turnicki       {138 106 48 117 43 65 18 76 190 113 81 153 135 4 16 129}
+Ceglarz        {44 90 133 248 239 126 53 75 156 116 117 138 99 254 253 84}
+Zelazna        {231 158 28 158 19 157 185 69 164 104 221 34 114 77 4 164}
+Orzechowski    {121 39 239 4 99 64 43 79 154 53 27 58 120 92 43 132}
+           --- mdbusedefaults ---       
+Dudzik         {True}
+Korzeniewska   {True}
+Turnicki       {True}
+Ceglarz        {True}
+Zelazna        {True}
+Orzechowski    {True}
+           --- badpasswordtime ---       
+Dudzik         {132564814407383278}
+Korzeniewska   {132566828729433391}
+Turnicki       {132566628273157221}
+Ceglarz        {132566719524116936}
+Zelazna        {132566696509459618}
+Orzechowski    {132566677170723523}
+           --- msds-externaldirectoryobjectid ---       
+Dudzik         {User_04807add-f960-4641-a470-235a1aaac59f}
+Korzeniewska   {User_c088f33d-b017-4a40-af10-6c4c55c02d3a}
+Turnicki       {User_e9ec2ba6-d3f2-497e-a2a8-d859c9173ac7}
+Ceglarz        {User_ffa1603f-0c45-43d8-91a2-fd84d6cd8053}
+Zelazna        {User_d484830d-499a-459d-9340-80c03ea13b95}
+Orzechowski    {User_73f46217-9c05-4653-8e1f-4fb6327135a9}
+           --- msexchmailboxsecuritydescri... ---       
+Dudzik         {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+Korzeniewska   {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+Turnicki       {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+Ceglarz        {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+Zelazna        {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+Orzechowski    {1 0 4 128 20 0 0 0 32 0 0 0 0 0 0 0 44 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 1 1 0 0 0 0 0 5 10 0 0 0 4 0 28 0 1 0 0 0 0 2 20 0 1 0 2 0 1 1 0 0 0 0 0 5 10 0 0 0}
+           --- departmentnumber ---       
+Dudzik         {KNTXEA}
+Korzeniewska   {KNTXEA}
+Turnicki       {KNTXEA}
+Ceglarz        {KNTXEA}
+Zelazna        {KNTXEA}
+Orzechowski    {KNTXEA}
+           --- msrtcsip-internetaccessenabled ---       
+Dudzik         {True}
+Korzeniewska   {True}
+Turnicki       {True}
+Ceglarz        {True}
+Zelazna        {True}
+Orzechowski    {True}
+           --- msexchrecipienttypedetails ---       
+Dudzik         {1}
+Korzeniewska   {1}
+Turnicki       {1}
+Ceglarz        {1}
+Zelazna        {1}
+Orzechowski    {1}
+           --- msexchrbacpolicylink ---       
+Dudzik         {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- sn ---       
+Dudzik         {Dudzik}
+Korzeniewska   {Korzeniewska}
+Turnicki       {Turnicki}
+Ceglarz        {Ceglarz}
+Zelazna        {Zelazna}
+Orzechowski    {Orzechowski}
+           --- msexcharchiveguid ---       
+Dudzik         {90 26 209 82 5 93 95 68 165 54 49 146 83 108 102 112}
+Korzeniewska   {39 14 223 45 194 4 221 64 175 185 77 133 126 2 78 61}
+Turnicki       {211 186 33 237 252 109 240 77 148 229 2 5 130 136 173 71}
+Ceglarz        {146 190 208 251 160 72 163 77 187 238 139 21 9 10 79 51}
+Zelazna        {250 0 127 117 10 145 128 69 159 66 250 97 246 248 116 106}
+Orzechowski    {30 242 103 113 117 77 117 73 135 0 231 60 155 33 2 250}
+           --- employeenumber ---       
+Dudzik         {1611108}
+Korzeniewska   {2009194}
+Turnicki       {2011207}
+Ceglarz        {2011126}
+Zelazna        {2012133}
+Orzechowski    {2010198}
+           --- msexchversion ---       
+Dudzik         {44220983382016}
+Korzeniewska   {44220983382016}
+Turnicki       {44220983382016}
+Ceglarz        {44220983382016}
+Zelazna        {44220983382016}
+Orzechowski    {44220983382016}
+           --- title ---       
+Dudzik         {Senior Technician}
+Korzeniewska   {Junior Technician}
+Turnicki       {Junior Technician}
+Ceglarz        {Junior Technician}
+Zelazna        {Junior Technician}
+Orzechowski    {Junior Technician}
+           --- userprincipalname ---       
+Dudzik         {Pawel.Dudzik@asplex.eu}
+Korzeniewska   {Nikola.Korzeniewska@asplex.eu}
+Turnicki       {Damian.Turnicki@asplex.eu}
+Ceglarz        {Jakub.Ceglarz@asplex.eu}
+Zelazna        {Kamila.Zelazna@asplex.eu}
+Orzechowski    {Wojciech.Orzechowski@asplex.eu}
+           --- samaccountname ---       
+Dudzik         {pdudzik}
+Korzeniewska   {nkorzeniewska}
+Turnicki       {dturnicki}
+Ceglarz        {jceglarz}
+Zelazna        {kzelazna}
+Orzechowski    {worzechowski}
+           --- Name ---       
+Dudzik         Value
+Korzeniewska   Value
+Turnicki       Value
+Ceglarz        Value
+Zelazna        Value
+Orzechowski    Value
+           --- dscorepropagationdata ---       
+Dudzik         {01-Jan-1601 00:00:00}
+Korzeniewska   {02-Oct-2020 08:28:30, 01-Jan-1601 00:00:00}
+Turnicki       {10-Dec-2020 05:27:14, 01-Jan-1601 00:00:00}
+Ceglarz        {18-Nov-2020 10:30:17, 01-Jan-1601 00:00:00}
+Zelazna        {21-Dec-2020 06:07:52, 01-Jan-1601 00:00:00}
+Orzechowski    {22-Oct-2020 07:14:41, 01-Jan-1601 00:00:00}
+           --- displayname ---       
+Dudzik         {Dudzik, Pawel}
+Korzeniewska   {Korzeniewska, Nikola}
+Turnicki       {Turnicki, Damian}
+Ceglarz        {Ceglarz, Jakub}
+Zelazna        {Zelazna, Kamila}
+Orzechowski    {Orzechowski, Wojciech}
+           --- primarygroupid ---       
+Dudzik         {513}
+Korzeniewska   {513}
+Turnicki       {513}
+Ceglarz        {513}
+Zelazna        {513}
+Orzechowski    {513}
+           --- msexcharchivewarnquota ---       
+Dudzik         {47185920}
+Korzeniewska   {47185920}
+Turnicki       {47185920}
+Ceglarz        {47185920}
+Zelazna        {47185920}
+Orzechowski    {47185920}
+           --- lastlogoff ---       
+Dudzik         {0}
+Korzeniewska   {0}
+Turnicki       {0}
+Ceglarz        {0}
+Zelazna        {0}
+Orzechowski    {0}
+           --- msexcharchivequota ---       
+Dudzik         {52428800}
+Korzeniewska   {52428800}
+Turnicki       {52428800}
+Ceglarz        {52428800}
+Zelazna        {52428800}
+Orzechowski    {52428800}
+           --- msrtcsip-userroutinggroupid ---       
+Dudzik         {199 225 191 205 73 182 215 88 177 170 151 172 19 82 59 36}
+Korzeniewska   {199 225 191 205 73 182 215 88 177 170 151 172 19 82 59 36}
+Turnicki       {86 208 60 178 24 64 86 83 142 150 188 217 135 113 23 39}
+Ceglarz        {3 27 108 233 166 64 148 86 141 92 163 64 194 214 253 104}
+Zelazna        {228 60 241 201 78 109 164 87 131 91 63 243 248 30 86 117}
+Orzechowski    {228 60 241 201 78 109 164 87 131 91 63 243 248 30 86 117}
+           --- msexchwhenmailboxcreated ---       
+Dudzik         {17-Nov-2016 11:37:31}
+Korzeniewska   {22-Sep-2020 10:55:42}
+Turnicki       {09-Dec-2020 14:32:17}
+Ceglarz        {16-Nov-2020 14:44:17}
+Zelazna        {18-Dec-2020 17:15:45}
+Orzechowski    {21-Oct-2020 19:38:51}
+           --- admindisplayname ---       
+Dudzik         None
+Korzeniewska   {fcastagnoli}
+Turnicki       {mscuratti}
+Ceglarz        {mscuratti}
+Zelazna        {fcastagnoli}
+Orzechowski    {dcastillo}
+           --- msexchmailboxguid ---       
+Dudzik         {46 133 72 255 90 77 80 67 169 75 78 0 180 171 171 39}
+Korzeniewska   {255 12 182 24 41 115 5 74 139 137 235 77 187 201 213 193}
+Turnicki       {10 239 9 205 170 132 200 73 188 248 78 195 246 224 100 54}
+Ceglarz        {121 237 97 69 226 207 21 69 181 41 186 89 192 69 210 155}
+Zelazna        {194 146 85 238 83 237 243 64 129 35 187 182 51 165 156 240}
+Orzechowski    {202 66 106 137 234 134 134 67 189 203 227 230 1 4 51 24}
+           --- msexchumdtmfmap ---       
+Dudzik         {emailAddress:72935383945, lastNameFirstName:38394572935, firstNameLastName:72935383945}
+Korzeniewska   {emailAddress:645652567936439752, lastNameFirstName:567936439752645652, firstNameLastName:645652567936439752}
+Turnicki       {emailAddress:32642688764254, lastNameFirstName:88764254326426, firstNameLastName:32642688764254}
+Ceglarz        {emailAddress:525822345279, lastNameFirstName:234527952582, firstNameLastName:525822345279}
+Zelazna        {emailAddress:5264529352962, lastNameFirstName:9352962526452, firstNameLastName:5264529352962}
+Orzechowski    {emailAddress:9652432467932469754, lastNameFirstName:6793246975496524324, firstNameLastName:9652432467932469754}
+           --- lastlogontimestamp ---       
+Dudzik         {132563704380973153}
+Korzeniewska   {132563701424733841}
+Turnicki       {132560281923227920}
+Ceglarz        {132563153642810381}
+Zelazna        {132563720210273740}
+Orzechowski    {132562880261606780}
+           --- whenchanged ---       
+Dudzik         {29-Jan-2021 05:09:27}
+Korzeniewska   {29-Jan-2021 05:05:08}
+Turnicki       {25-Jan-2021 06:05:09}
+Ceglarz        {28-Jan-2021 13:50:09}
+Zelazna        {29-Jan-2021 05:35:08}
+Orzechowski    {28-Jan-2021 06:20:09}
+           --- msexchrecipientdisplaytype ---       
+Dudzik         {1073741824}
+Korzeniewska   {1073741824}
+Turnicki       {1073741824}
+Ceglarz        {1073741824}
+Zelazna        {1073741824}
+Orzechowski    {1073741824}
+           --- usncreated ---       
+Dudzik         {97438}
+Korzeniewska   {17886279}
+Turnicki       {21468071}
+Ceglarz        {20328571}
+Zelazna        {21932284}
+Orzechowski    {19196816}
+           --- msexchshadowproxyaddresses ---       
+Dudzik         {smtp:Pawel_Dudzik@ex.acer-euro.com, smtp:Pawel_Dudzik@asplex.eu, SIP:Pawel.Dudzik@asplex.eu, SMTP:Pawel.Dudzik@asplex.eu}
+Korzeniewska   None
+Turnicki       None
+Ceglarz        None
+Zelazna        None
+Orzechowski    None
+           --- instancetype ---       
+Dudzik         {4}
+Korzeniewska   {4}
+Turnicki       {4}
+Ceglarz        {4}
+Zelazna        {4}
+Orzechowski    {4}
+           --- logoncount ---       
+Dudzik         {9276}
+Korzeniewska   {1529}
+Turnicki       {1015}
+Ceglarz        {343}
+Zelazna        {499}
+Orzechowski    {1243}
+           --- extensionattribute2 ---       
+Dudzik         {EMEA}
+Korzeniewska   {EMEA}
+Turnicki       {EMEA}
+Ceglarz        {EMEA}
+Zelazna        {EMEA}
+Orzechowski    {EMEA}
+           --- showinaddressbook ---       
+Dudzik         {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=EMEA OWA Address List,CN=EMEA SupportMail Address List,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=EMEA SupportMail,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com, CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=ACER,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- extensionattribute3 ---       
+Dudzik         {PLWRO}
+Korzeniewska   {PLWRO}
+Turnicki       {PLWRO}
+Ceglarz        {PLWRO}
+Zelazna        {PLWRO}
+Orzechowski    {PLWRO}
+           --- countrycode ---       
+Dudzik         {0}
+Korzeniewska   {0}
+Turnicki       {0}
+Ceglarz        {0}
+Zelazna        {0}
+Orzechowski    {0}
+           --- info ---       
+Dudzik         None
+Korzeniewska   {\\PLWROVF1\HOME$\nkorzeniewska}
+Turnicki       {\\PLWROVF1\HOME$\dturnicki}
+Ceglarz        {\\PLWROVF1\HOME$\jceglarz}
+Zelazna        {\\PLWROVF1\HOME$\kzelazna}
+Orzechowski    {\\PLWROVF1\HOME$\worzechowski}
+           --- msexchuserculture ---       
+Dudzik         {en-US}
+Korzeniewska   {en-US}
+Turnicki       {en-US}
+Ceglarz        {en-US}
+Zelazna        {en-US}
+Orzechowski    {en-US}
+           --- lastlogon ---       
+Dudzik         {132564844344477891}
+Korzeniewska   {132566849599869734}
+Turnicki       {132566861503101494}
+Ceglarz        {132566848151658545}
+Zelazna        {132566826068624684}
+Orzechowski    {132566833202870554}
+           --- msrtcsip-deploymentlocator ---       
+Dudzik         {SRV:}
+Korzeniewska   {SRV:}
+Turnicki       {SRV:}
+Ceglarz        {SRV:}
+Zelazna        {SRV:}
+Orzechowski    {SRV:}
+           --- pwdlastset ---       
+Dudzik         {132536054845539389}
+Korzeniewska   {132523984821699188}
+Turnicki       {132524839367879164}
+Ceglarz        {132524161489765294}
+Zelazna        {132546004722867720}
+Orzechowski    {132561974092594088}
+           --- badpwdcount ---       
+Dudzik         {0}
+Korzeniewska   {0}
+Turnicki       {0}
+Ceglarz        {0}
+Zelazna        {0}
+Orzechowski    {0}
+           --- l ---       
+Dudzik         {Wroclaw}
+Korzeniewska   {Wroclaw}
+Turnicki       {Wroclaw}
+Ceglarz        {Wroclaw}
+Zelazna        {Wroclaw}
+Orzechowski    {Wroclaw}
+           --- useraccountcontrol ---       
+Dudzik         {512}
+Korzeniewska   {512}
+Turnicki       {512}
+Ceglarz        {512}
+Zelazna        {512}
+Orzechowski    {512}
+           --- objectclass ---       
+Dudzik         {top, person, organizationalPerson, user}
+Korzeniewska   {top, person, organizationalPerson, user}
+Turnicki       {top, person, organizationalPerson, user}
+Ceglarz        {top, person, organizationalPerson, user}
+Zelazna        {top, person, organizationalPerson, user}
+Orzechowski    {top, person, organizationalPerson, user}
+           --- distinguishedname ---       
+Dudzik         {CN=Dudzik\, Pawel,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=Korzeniewska\, Nikola,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=Turnicki\, Damian,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=Ceglarz\, Jakub,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=Zelazna\, Kamila,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=Orzechowski\, Wojciech,OU=Repair Employees,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com}
+           --- msrtcsip-primaryuseraddress ---       
+Dudzik         {sip:Pawel.Dudzik@asplex.eu}
+Korzeniewska   {sip:nikola.korzeniewska@asplex.eu}
+Turnicki       {sip:damian.turnicki@asplex.eu}
+Ceglarz        {sip:jakub.ceglarz@asplex.eu}
+Zelazna        {sip:Kamila.Zelazna@asplex.eu}
+Orzechowski    {sip:Wojciech.Orzechowski@asplex.eu}
+           --- usnchanged ---       
+Dudzik         {23637247}
+Korzeniewska   {23636731}
+Turnicki       {23397872}
+Ceglarz        {23615864}
+Zelazna        {23638497}
+Orzechowski    {23595024}
+           --- samaccounttype ---       
+Dudzik         {805306368}
+Korzeniewska   {805306368}
+Turnicki       {805306368}
+Ceglarz        {805306368}
+Zelazna        {805306368}
+Orzechowski    {805306368}
+           --- name ---       
+Dudzik         {Dudzik, Pawel}
+Korzeniewska   {Korzeniewska, Nikola}
+Turnicki       {Turnicki, Damian}
+Ceglarz        {Ceglarz, Jakub}
+Zelazna        {Zelazna, Kamila}
+Orzechowski    {Orzechowski, Wojciech}
+           --- cn ---       
+Dudzik         {Dudzik, Pawel}
+Korzeniewska   {Korzeniewska, Nikola}
+Turnicki       {Turnicki, Damian}
+Ceglarz        {Ceglarz, Jakub}
+Zelazna        {Zelazna, Kamila}
+Orzechowski    {Orzechowski, Wojciech}
+           --- msrtcsip-federationenabled ---       
+Dudzik         {True}
+Korzeniewska   {True}
+Turnicki       {True}
+Ceglarz        {True}
+Zelazna        {True}
+Orzechowski    {True}
+           --- msrtcsip-primaryhomeserver ---       
+Dudzik         {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Korzeniewska   {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Turnicki       {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Ceglarz        {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Zelazna        {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+Orzechowski    {CN=Lc Services,CN=Microsoft,CN=2:1,CN=Pools,CN=RTC Service,CN=Services,CN=Configuration,DC=intra,DC=acer,DC=com}
+           --- accountexpires ---       
+Dudzik         {9223372036854775807}
+Korzeniewska   {9223372036854775807}
+Turnicki       {9223372036854775807}
+Ceglarz        {9223372036854775807}
+Zelazna        {9223372036854775807}
+Orzechowski    {9223372036854775807}
+           --- msexchpoliciesexcluded ---       
+Dudzik         {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+Korzeniewska   {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+Turnicki       {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+Ceglarz        {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+Zelazna        {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+Orzechowski    {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+           --- codepage ---       
+Dudzik         {0}
+Korzeniewska   {0}
+Turnicki       {0}
+Ceglarz        {0}
+Zelazna        {0}
+Orzechowski    {0}
+           --- co ---       
+Dudzik         {POLAND}
+Korzeniewska   {POLAND}
+Turnicki       {POLAND}
+Ceglarz        {POLAND}
+Zelazna        {POLAND}
+Orzechowski    {POLAND}
+           --- memberof ---       
+Dudzik         {CN=PLWRO-RC_Technician,OU=Repair Center,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO_Internet_Full_Access,OU=IWSVA,OU=Groups,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO Send Mail Prohibited to External Only,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO-Trainings_R,OU=Office,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com...}
+Korzeniewska   {CN=PLWRO-RC_Technician,OU=Repair Center,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com...}
+Turnicki       {CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO_Internet_Restricted_Access_Whitelisted,OU=IWSVA,OU=Groups,DC=emea,DC=intra,DC=acer,DC=com...}
+Ceglarz        {CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO_Internet_Restricted_Access_Whitelisted,OU=IWSVA,OU=Groups,DC=emea,DC=intra,DC=acer,DC=com...}
+Zelazna        {CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO_Internet_Restricted_Access_Whitelisted,OU=IWSVA,OU=Groups,DC=emea,DC=intra,DC=acer,DC=com...}
+Orzechowski    {CN=PLWRO-RC_Technician,OU=Repair Center,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=PLWRO-JuniorTechnician,OU=Groups,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=SP_PLWRO_All_Visitors,OU=SharePoint Team Sites,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com, CN=EMEA Wroclaw All Users,OU=Mail Groups,OU=Resources,OU=PLWRO,DC=emea,DC=intra,DC=acer,DC=com...}
+           --- protocolsettings ---       
+Dudzik         {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+Korzeniewska   {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+Turnicki       {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+Ceglarz        {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+Zelazna        {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+Orzechowski    {HTTP§1§1§§§§§§, OWA§1, IMAP4§0§§§§§§§§§§§, POP3§0§§§§§§§§§§§}
+           --- msexcharchivename ---       
+Dudzik         {Personal Archive - Dudzik, Pawel}
+Korzeniewska   {Personal Archive - Korzeniewska, Nikola}
+Turnicki       {Personal Archive - Turnicki, Damian}
+Ceglarz        {Personal Archive - Ceglarz, Jakub}
+Zelazna        {Personal Archive - Zelazna, Kamila}
+Orzechowski    {Personal Archive - Orzechowski, Wojciech}
+           --- msrtcsip-optionflags ---       
+Dudzik         {2305}
+Korzeniewska   {2305}
+Turnicki       {2305}
+Ceglarz        {2305}
+Zelazna        {2305}
+Orzechowski    {2305}
+           --- proxyaddresses ---       
+Dudzik         {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=aa51e7bf96fe4b1aa9a4ef86ce377e50-Dudzik, Paw, SIP:Pawel.Dudzik@asplex.eu, SMTP:Pawel.Dudzik@asplex.eu, smtp:Pawel_Dudzik@asplex.eu...}
+Korzeniewska   {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=716482eb78cc464c94ed51db91f34fd3-Korzeniewsk, sip:nikola.korzeniewska@asplex.eu, smtp:nikola.korzeniewska@ex.acer-euro.com, SMTP:nikola.korzeniewska@asplex.eu}
+Turnicki       {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=2fd232a982f3495899a09e32c1281429-Turnicki, D, sip:damian.turnicki@asplex.eu, smtp:damian.turnicki@ex.acer-euro.com, SMTP:damian.turnicki@asplex.eu}
+Ceglarz        {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=cf3e317d75c74aa79a7d42826f82b062-Ceglarz, Ja, sip:jakub.ceglarz@asplex.eu, smtp:jakub.ceglarz@ex.acer-euro.com, SMTP:jakub.ceglarz@asplex.eu}
+Zelazna        {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=d9543bda40c040baa214792acd7471b4-Zelazna, Ka, sip:Kamila.Zelazna@asplex.eu, smtp:kamila.zelazna@ex.acer-euro.com, SMTP:kamila.zelazna@asplex.eu}
+Orzechowski    {x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=c76b078c685b416ab43092145723ea9e-Orzechowski, sip:Wojciech.Orzechowski@asplex.eu, smtp:wojciech.orzechowski@ex.acer-euro.com, SMTP:wojciech.orzechowski@asplex.eu}
+           --- department ---       
+Dudzik         {KNTXEA Repair Center_Robert}
+Korzeniewska   {KNTXEA Repair Center_Robert}
+Turnicki       {KNTXEA Repair Center_Robert}
+Ceglarz        {KNTXEA Repair Center_Robert}
+Zelazna        {KNTXEA Repair Center_Robert}
+Orzechowski    {KNTXEA Repair Center_Robert}
